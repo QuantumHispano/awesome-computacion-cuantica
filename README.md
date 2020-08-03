@@ -8,7 +8,7 @@ Actualmente, se encuentran disponibles herramientas para crear, diseñar y ejecu
 
 El objetivo es construir una lista categorizada de recursos actualizados y de alta calidad, dirigida a la comunidad de habla hispana.  Si bien, al día de hoy la gran mayoría de recursos están en idioma inglés, existe un nutrido grupo de entusiastas de diversos países trabajando por traducir o generar recursos  y contenido en español.
 
-Siéntete en confianza de compartir esta lista, o si lo deseas, contribuir para mantenerla siempre actualizada. Te invito a que revises los [criterios de contribución](https://github.com/alexini-mv/awesome-computacion-cuantica/blob/master/CONTRIBUTING.md#readme) y lo tomes en cuenta para tus sugerencias.
+Siéntete en confianza de compartir esta lista, o si lo deseas, contribuir para mantenerla siempre actualizada. Te invito a que revises los [criterios de contribución](https://github.com/QuantumHispano/awesome-computacion-cuantica/blob/master/CONTRIBUTING.md) y lo tomes en cuenta para tus sugerencias.
 
 Trabajemos juntos para que la Computación Cuántica sea más accesible para todos los entusiastas y estudiantes de habla hispana. ¡Gracias!
 
