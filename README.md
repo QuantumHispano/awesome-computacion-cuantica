@@ -46,6 +46,8 @@ Trabajemos juntos para que la Computación Cuántica sea más accesible para tod
 ## Comunidades
 
 - [QuantumHispano](https://www.facebook.com/groups/291702898702788/) - Comunidad latinoamericana de jovenes entusiastas y estudiosos del cómputo cuántico.
+- [Quantum Information Science and Technology in Latin America](https://www.facebook.com/groups/152996132018274/) - Comunidad en español con interés en el desarrollo de las tecnologías cuánticas en latinoamérica.
+
 
 ## Blogs
 
