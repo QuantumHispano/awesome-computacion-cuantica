@@ -49,6 +49,8 @@ Trabajemos juntos para que la Computación Cuántica sea más accesible para tod
 
 ## Blogs
 
+- [Blog de QuantumHispano](https://medium.com/quantumhispano) - Blog donde la comunidad de **QuantumHispano** comparte sus experiencias, aprendizajes e investigaciones en el área.
+
 ## Podcasts
 
 [Diálogos con el Dodo](https://www.mixcloud.com/SalvadorVenAnd/) - Podcast en español producido por el Dr. Salvador Venegas Andraca, donde se discuten diversos temas de ciencia y tecnología, incluido el cómputo cuántico.
