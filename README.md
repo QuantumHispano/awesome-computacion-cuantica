@@ -33,7 +33,11 @@ Trabajemos juntos para que la Computación Cuántica sea más accesible para tod
 
 ## Libros
 
-- [Quantum Computation and Quantum Information](https://libgen.is/book/index.php?md5=FDF565E18B757F8D4CA563AEFE6FBE17) - Niels, M. A. & Chuang, I. L. (2010) - El libro clásico y de referencia para el estudio de la computación cuántica.
+- [Coecke, B. & Kissinger, A.](https://libgen.is/book/index.php?md5=DC5B62909A51DCBF6AC0A518241D9A7B) - *Picturing Quantum Processes: A First Course.* (2017) - Un presentación amistosa de la teoría cuántica apoyada en diagramas.
+- [Mermin, N. David.](https://libgen.is/book/index.php?md5=E08506227D9540AC05AD480223D1B7BF) - *Quantum Computer Science: An Introduction.* (2007) - Una concreta introdución al mundo de las ciencias computacionales cuánticas.
+- [Niels, M. A. & Chuang, I. L.](https://libgen.is/book/index.php?md5=FDF565E18B757F8D4CA563AEFE6FBE17) - *Quantum Computation and Quantum Information.* (2010) - El libro clásico y de referencia para el estudio de la computación cuántica.
+- [Yanofsky, N.S. & Mannucci, M. A.](https://libgen.is/book/index.php?md5=E7617DAB8DF0C879C757974B1E5E1A29) - *Quantum Computing for Computer Scientists.* (2008) - Una introducción al área con un enfoque multidisciplinario.
+
 
 ## Videos
 
